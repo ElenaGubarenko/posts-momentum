@@ -1,0 +1,9 @@
+.Container {
+  padding : 10px;
+}
+
+textarea {
+  resize: none;
+  width: 400px;
+  height: 200px;
+}
