@@ -11,3 +11,4 @@ function App() {
 export default App
 
 //start: 19:40, 18.05.2022
+//end: 22:40, 18.05.2022
